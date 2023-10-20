@@ -1,6 +1,6 @@
 #ifndef SORT_HEADER
 #define SORT_HEADER
-#include <stdio.h>
+
 #include <stdlib.h>
 #include <stdbool.h>
 
